@@ -1,4 +1,2 @@
-# first-code
-this is my first repository
-<br>
-my name  is sandeep thakur
+# COE-Code
+my name  is sandeep singh bhati
